@@ -51,6 +51,8 @@ I am **Taufiq Arinta Ardiyono(Junior Android Developer and Freelancer)**, Androi
 
 ## 📈 GitHub Stats 
 
-[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=taufiqarinta)](https://github.com/taufiqarinta)
+[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=TaufiqArinta)](https://github.com/taufiqarinta)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqarinta&layout=compact)](https://github.com/taufiqarinta)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqarinta\&layout=donut)](https://github.com/taufiqarinta/github-readme-stats)
+
+
